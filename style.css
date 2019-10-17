@@ -1,0 +1,280 @@
+/*********************body****************************/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: black;
+}
+
+/************************logo**************************/
+
+.logo-cont {
+  background: black;
+}
+
+.logo {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+/************************nav**************************/
+
+.nav {
+  display: block;
+  background: black;
+  width: auto;
+  height: 200px;
+  text-align: center;
+  margin-top: -100px;
+}
+
+.nav li {
+  display: inline;
+  padding-left: 20px;
+  color: white;
+  font-family: "courier new";
+  font-size: 80%;
+  text-transform: lowercase;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+a.nav-link:link {
+  color: white;
+}
+a.nav-link:visited {
+  color: white;
+}
+a.nav-link:hover {
+  color: beige;
+}
+
+/***********************footer**************************/
+
+.footer {
+  background: black;
+  height: 100px;
+  text-align: center;
+}
+
+.footer li {
+  display: inline;
+  padding-left: 20px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 130%;
+}
+
+.footer-social {
+  text-decoration: none;
+}
+a.footer-social:link {
+  color: white;
+}
+a.footer-social:visited {
+  color: white;
+}
+a.footer-social:hover {
+  color: beige;
+}
+
+/********************About Us**************************/
+
+.logo-wrapper {
+  background: black;
+  text-align: center;
+}
+
+.aboutus-logo {
+  width: 300px;
+}
+
+.content {
+  font-family: "courier new";
+  background: black;
+  color: white;
+  padding-right: 20px;
+  padding-left: 20px;
+  max-width: 1000px;
+  margin: auto;
+  letter-spacing: -2px;
+}
+
+.aboutus-footer {
+  background: black;
+  height: 80px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.aboutus-footer li {
+  display: inline;
+  padding-left: 20px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 130%;
+}
+
+/********************Graphic Design**************************/
+
+.gd-links {
+  text-align: center;
+}
+.gd-links li {
+  display: inline;
+  //color: white;
+  font-family: "courier new";
+  margin: 40px;
+}
+
+.gd-list {
+  text-decoration: none;
+}
+a.gd-list:link {
+  color: white;
+}
+a.gd-list:visited {
+  color: white;
+}
+a.gd-list:hover {
+  color: beige;
+}
+
+/********************Graphic Design - JGR COPA**************************/
+
+.gd-body {
+  background: white;
+}
+
+.gd-logo-wrapper {
+  text-align: center;
+}
+
+.gd-logo {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img1 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.img2 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.img3 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.jgrcopa-footer {
+  background: white;
+  height: 100px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.jgrcopa-footer li {
+  display: inline;
+  padding-left: 20px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 130%;
+}
+
+.jgr-footer-social {
+  text-decoration: none;
+}
+a.jgr-footer-social:link {
+  color: black;
+}
+a.jgr-footer-social:visited {
+  color: black;
+}
+a.jgr-footer-social:hover {
+  color: #70143f;
+}
+
+/********************Graphic Design - Ron Jon**************************/
+
+.rj-img1 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.rj-img2 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.t8 {
+  width: 400px;
+  height: 800px;
+}
+
+/********************Graphic Design - Salt Water**************************/
+
+.b1-cont,
+.b2-cont {
+  text-align: center;
+}
+
+/********************Graphic Design - Sea World**************************/
+
+.t5-cont,
+.t6-cont {
+  text-align: center;
+  margin-top: 60px;
+}
+
+/********************Packaging**************************/
+
+.p1-cont,
+.p2-cont {
+  text-align: center;
+}
+
+.p1,
+.p2 {
+  width: 50%;
+  margin-top: 150px;
+}
+.p2 {
+  margin-bottom: 60px;
+}
+
+/********************Surface Patterns**************************/
+
+.s1-cont,
+.s2-cont,
+.s3-cont,
+.s4-cont {
+  text-align: center;
+}
+
+.s1,
+.s2,
+.s3,
+.s4 {
+  width: 800px;
+  height: 800px;
+}
+
+.s1,
+.s2,
+.s3,
+.s4 {
+  margin-top: 90px;
+}

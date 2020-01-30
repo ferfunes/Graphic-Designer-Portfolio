@@ -1,4 +1,6 @@
-/*********************body****************************/
+/********************* HTML ****************************/
+
+/********************* body ****************************/
 
 * {
   margin: 0;
@@ -9,7 +11,7 @@ body {
   background: black;
 }
 
-/************************logo**************************/
+/************************ logo **************************/
 
 .logo-cont {
   background: black;
@@ -20,10 +22,9 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-    
 }
 
-/************************nav**************************/
+/************************ nav **************************/
 
 .nav {
   display: block;
@@ -56,7 +57,7 @@ a.nav-link:hover {
   color: beige;
 }
 
-/***********************footer**************************/
+/*********************** footer **************************/
 
 .footer {
   background: black;
@@ -85,7 +86,7 @@ a.footer-social:hover {
   color: beige;
 }
 
-/********************About Us**************************/
+/******************** About Us **************************/
 
 .logo-wrapper {
   background: black;
@@ -122,14 +123,14 @@ a.footer-social:hover {
   font-size: 130%;
 }
 
-/********************Graphic Design**************************/
+/******************** Graphic Design **************************/
 
 .gd-links {
   text-align: center;
 }
 .gd-links li {
   display: inline;
-  //color: white;
+
   font-family: "courier new";
   margin: 40px;
 }
@@ -146,8 +147,17 @@ a.gd-list:visited {
 a.gd-list:hover {
   color: beige;
 }
-
-/********************Graphic Design - JGR COPA**************************/
+.back {
+  text-align: center;
+  margin-top: 50px;
+  background: black;
+}
+.back-link {
+  color: white;
+  text-decoration: none;
+  font-family: "courier new";
+}
+/******************** Graphic Design - JGR COPA **************************/
 
 .gd-body {
   background: white;
@@ -206,8 +216,21 @@ a.jgr-footer-social:visited {
 a.jgr-footer-social:hover {
   color: #70143f;
 }
-
-/********************Graphic Design - Ron Jon**************************/
+.section-name {
+  margin-top: 50px;
+}
+.name {
+  text-align: center;
+  font-size: 50px;
+  font-family: "courier new";
+}
+.back-graphicDesign {
+  text-align: center;
+}
+.button-back {
+  background: black;
+}
+/******************** Graphic Design - Ron Jon **************************/
 
 .rj-img1 {
   text-align: center;
@@ -224,14 +247,14 @@ a.jgr-footer-social:hover {
   height: 800px;
 }
 
-/********************Graphic Design - Salt Water**************************/
+/******************** Graphic Design - Salt Water **************************/
 
 .b1-cont,
 .b2-cont {
   text-align: center;
 }
 
-/********************Graphic Design - Sea World**************************/
+/******************** Graphic Design - Sea World **************************/
 
 .t5-cont,
 .t6-cont {
@@ -239,7 +262,7 @@ a.jgr-footer-social:hover {
   margin-top: 60px;
 }
 
-/********************Packaging**************************/
+/******************** Packaging **************************/
 
 .p1-cont,
 .p2-cont {
@@ -255,7 +278,7 @@ a.jgr-footer-social:hover {
   margin-bottom: 60px;
 }
 
-/********************Surface Patterns**************************/
+/******************** Surface Patterns **************************/
 
 .s1-cont,
 .s2-cont,
